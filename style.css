@@ -1,0 +1,23 @@
+h2 {
+    font-family:cursive, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+#criativa {
+    font-size: 20px;
+    font-weight: 500;
+}
+#empática {
+    font-size: 18px
+
+}
+#adaptável {
+    font-size: 16px;
+}
+#dedicada {
+    font-size: 14px;
+}
