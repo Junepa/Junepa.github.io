@@ -21,6 +21,15 @@ body {
 #dedicada {
     font-size: 14px;
 }
-#img {
-    vertical-align: middle;
+#foto {
+float: left;
+height: 300px;
+padding: 10px;
+background-color: coral;
 }
+
+
+div {
+    border: 2px solid palevioletred;
+}
+
