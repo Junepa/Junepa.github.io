@@ -11,11 +11,11 @@ body {
     font-size: 20px;
     font-weight: 500;
 }
-#empática {
+#empatica {
     font-size: 18px
 
 }
-#adaptável {
+#adaptavel {
     font-size: 16px;
 }
 #dedicada {
@@ -32,4 +32,6 @@ background-color: coral;
 div {
     border: 2px solid palevioletred;
 }
-
+#profile-container {
+    overflow: hidden;
+}
